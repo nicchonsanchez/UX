@@ -1,0 +1,64 @@
+---------------------------------------------------------------------------
+
+    Que resultados um UX Designer traz para um negócio?
+
+---------------------------------------------------------------------------
+
+    01- Aumentar taxa de conversão
+    02- Diminuir a taxa de evasão/fulga
+    03- Reduz riscos financeiros
+    04- Reduz retrabalhos e custo de desenvolvimento
+    05- Diminui custo de publicidade
+    06- Aumentar o ticket médio
+    07- Melhorar a imagem da empresa
+    08- Usuário satisfeito
+    09- Diminuir o custo de suporte/reembolso
+    10- Motivar a equipe
+
+
+01- Aumentar taxa de conversão
+    - O UX é um profissional capacitado a pensar em maneiras de induzir as pessoas a realizar a ação desejada,
+    como comprar determinado produto, realizar um cadastro, entrar num site e etc
+
+02- Diminuir a taxa de evasão/fulga
+    - Exemplos em que pessoas entram no site e logo já saem.O UX é o responsável por criar uma boa experiência para o usuário.
+    Logo, tendo uma boa primeira impressão,o usuário não irá se retirar do site/app logo ao entrar,
+    pois havendo uma boa interação sentirá o desejo de explorá-lo
+
+03- Reduz riscos financeiros
+    - Alterações mínimas num site de vendas podem causar grandes resultados, sejam resultados bons ou ruins.
+    Será que uma mínima altareção num botão 'Comprar' para 'Compre já', ou 'Compre agora',
+    poderia surtir um efeito positivo ou negativo no site?
+    Com a alteração certa o UX poderá reduzir os riscos financeiros, o risco de perder uma venda.
+
+04- Reduz retrabalho, custo de desenvolvimento
+    - Prototipar antes de desenvolver é um passo chave para economizar com desenvolvimento e também evitar retrabalhos.
+    Este é mais um dos papéis do UX, prototipar antes solicitar o desevolvimento de algo, seja um site, app, etc.
+
+05- Diminui custo de publicidade
+    - Se você cria um produto que as pessoas gostam de usar, que elas indicam, que elas defendem, que elas falam bem,
+    você tem uma diminuição no custo de publicidade, porque o boca-a-boca estará fazendo o trabalho dele.
+    Imagine um site onde o usuário entre e logo saia, o dinheiro aplicado no tráfego será desperdiçado.
+    Então diminuindo a evasão e aumentando as recomendações do seu produto estará diminuindo o custo de publicidade.
+
+06- Aumentar o ticket médio
+    - Agindo da maneira correta, criando uma boa experiência de usuário é possível induzi-lo até mesmo a comprar mais em seu site.
+    Suponha em um site de vendas criemos uma forma mais apropriada para indicar outros produtos ao cliente,
+    fazendo isto ele poderá se interessar por outro produto e adicioná-lo ao carrinho de compra.
+
+07- Melhorar a imagem da empresa
+    - Criando produtos ótimos, que trazem uma boa experiência para os usuários,
+    melhor também fica o nome da empresa. Quanto melhor é a experiência do usuário, a usabilidade do produto,
+    a facilidade de aprendizado para usar o produto, a acessividade ao suporte, melhor fica o nome da empresa,
+    pois menores serão os indices de reclamações, como no Reclame Aqui.
+
+08- Usuário satisfeito
+    - Através de todos esses recursos, trazemos aos usuários a satisfação.
+
+09- Diminuir o custo de suporte/reembolso
+    - Se o produto é bom, não terá tanta gente pedindo reembolso. Quanto melhor o produto é,
+    menos se precisa de suporte e menos se pede reembolso.
+
+10- Motivar a equipe
+    - Motiva a equipe, ou seja, os desenvolveres, a equipe do negócio, vão ser mais felizes em trabalhar com um produto que as pessoas gostam.
+    Isto trás certa satisfação.

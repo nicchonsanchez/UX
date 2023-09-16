@@ -1,0 +1,31 @@
+---------------------------------------------------------------------------
+
+    Introdução ao Design Thinking
+
+---------------------------------------------------------------------------
+
+Design Thinking é uma abordagem e metodologia de resolução de problemas que coloca o usuário no centro do processo de design. Essa abordagem é altamente colaborativa e multidisciplinar, enfocando a empatia com os usuários finais para entender suas necessidades e criar soluções inovadoras que atendam a essas necessidades de maneira eficaz.
+O Design Thinking é amplamente utilizado em várias áreas, incluindo design de produtos, design de serviços, desenvolvimento de negócios, educação e até mesmo em questões sociais. A abordagem é conhecida por sua ênfase na experimentação, iteração e aprendizado constante ao longo do processo de design.
+
+A metodologia do Design Thinking geralmente envolve as seguintes etapas:
+
+    1. **Empatia (Empathize):**
+        Nesta fase, a equipe de design se concentra em entender profundamente os usuários e suas necessidades. Isso envolve entrevistas, observação e imersão no ambiente do usuário para ganhar insights significativos.
+
+    2. **Definição (Define):**
+        Com base nas informações coletadas na fase de empatia, a equipe define o problema a ser resolvido de maneira clara e específica. Isso ajuda a concentrar os esforços no problema mais relevante para os usuários.
+
+    3. **Ideação (Ideate):**
+        Nesta etapa, a equipe gera uma ampla variedade de ideias e soluções para o problema identificado. Isso é feito através de sessões de brainstorming e outras técnicas criativas.
+
+    4. **Prototipagem (Prototype):**
+        Após a seleção das melhores ideias, a equipe cria protótipos ou representações visuais das soluções. Os protótipos podem variar de esboços simples a modelos interativos de alta fidelidade.
+
+    5. **Teste (Test):**
+        Os protótipos são testados com os usuários reais para obter feedback valioso. Essa fase de teste ajuda a entender como os usuários interagem com as soluções propostas e identifica pontos fracos que precisam ser aprimorados.
+
+    6. **Iteração (Iterate):**
+        Com base no feedback dos testes, a equipe volta às etapas anteriores para refinar e melhorar as soluções. Esse processo iterativo continua até que uma solução satisfatória seja alcançada.
+
+O Design Thinking valoriza a abordagem não linear e iterativa para resolver problemas, o que significa que as etapas podem se sobrepor e ser revisitadas conforme necessário. Também enfatiza a colaboração entre pessoas com diferentes habilidades e perspectivas, incentivando a diversidade de ideias e a inovação.
+O Design Thinking tem sido amplamente adotado em empresas e organizações que desejam criar produtos e serviços centrados no usuário, bem como em campos como educação, saúde e design social, onde a compreensão das necessidades humanas é fundamental. É uma abordagem que valoriza a criatividade, a empatia e a resolução de problemas orientada para o usuário.

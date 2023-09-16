@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------
+
+    Design Thinking: Idear
+
+---------------------------------------------------------------------------
+
+A fase de "Ideação" no processo de Design Thinking é o momento em que a equipe gera uma ampla variedade de ideias criativas e soluções potenciais para resolver o problema definido na fase anterior, a fase de "Definir". É uma etapa altamente colaborativa e aberta à criatividade, e tem como objetivo produzir o máximo possível de ideias antes de começar a avaliá-las.
+
+Aqui estão os principais aspectos da fase de "Ideação" no Design Thinking:
+
+    1. **Brainstorming:**
+        O brainstorming é uma técnica comum nesta fase, onde os membros da equipe se reúnem para gerar ideias de forma livre e sem julgamento. O objetivo é criar um ambiente onde todas as ideias são bem-vindas, independentemente de quão viáveis ou práticas possam parecer inicialmente.
+
+    2. **Diversidade de Perspectivas:**
+        A diversidade de perspectivas é fundamental na fase de Ideação. A equipe deve incluir membros com diferentes origens, habilidades e experiências para garantir uma ampla gama de ideias.
+
+    3. **Métodos Criativos:**
+        Além do brainstorming, a equipe pode usar uma variedade de métodos criativos para gerar ideias, como mapas mentais, prototipagem rápida, storytelling, role-playing e outras técnicas de pensamento criativo.
+
+    4. **Foco na Quantidade:**
+        Nesta fase, a quantidade de ideias é mais importante do que a qualidade. Quanto mais ideias forem geradas, maior a probabilidade de encontrar soluções inovadoras e criativas.
+
+    5. **Construção sobre Ideias Anteriores:**
+        À medida que as ideias são geradas, a equipe pode construir sobre ideias anteriores, combiná-las ou adaptá-las. Isso ajuda a criar soluções mais abrangentes e refinadas.
+
+    6. **Registro de Ideias:**
+        É importante registrar todas as ideias, seja por meio de anotações, desenhos, post-its ou qualquer outra forma de documentação. Isso facilita a revisão e a seleção posterior das ideias.
+
+    7. **Visualização de Ideias:**
+        A visualização de ideias por meio de esboços, diagramas ou protótipos simples pode ajudar a equipe a comunicar e compreender melhor as soluções propostas.
+
+    8. **Julgamento Posterior:**
+        Embora o julgamento das ideias não seja o foco nesta fase, é importante lembrar que a seleção e a avaliação das ideias ocorrerão em etapas posteriores do processo de Design Thinking, chamadas "Prototipagem" e "Teste".
+
+A fase de Ideação é uma oportunidade para a equipe explorar uma ampla gama de soluções possíveis, desde as mais convencionais até as mais ousadas. É um momento de liberdade criativa e geração de insights, onde o objetivo é pensar fora da caixa e considerar todas as perspectivas possíveis. Após a fase de Ideação, as melhores ideias serão selecionadas para serem desenvolvidas e testadas nas etapas subsequentes do processo.

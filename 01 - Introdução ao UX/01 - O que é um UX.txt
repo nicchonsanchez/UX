@@ -1,0 +1,55 @@
+---------------------------------------------------------------------------
+
+    O que é um UX?
+
+---------------------------------------------------------------------------
+
+Um profissional de User Experience (UX), ou experiência do usuário em português,
+é responsável por projetar e melhorar a experiência geral que os usuários têm ao interagir com produtos ou sistemas,
+como aplicativos móveis, websites, softwares, dispositivos, e até mesmo serviços físicos.
+O objetivo principal de um UX Designer é criar experiências que sejam eficientes,
+agradáveis, acessíveis e que atendam às necessidades e expectativas dos usuários.
+
+Principais responsabilidades e tarefas de um profissional de UX:
+
+    1. **Pesquisa de Usuário:**
+        Realizar pesquisas para entender as necessidades, desejos e comportamentos dos usuários.
+        Isso pode envolver a realização de entrevistas, testes de usabilidade, análise de dados, entre outros métodos de pesquisa.
+
+    2. **Criação de Personas:**
+        Desenvolver personas, que são representações fictícias de usuários com características e necessidades específicas.
+        Isso ajuda a equipe a compreender melhor para quem estão projetando.
+
+    3. **Arquitetura de Informação:**
+        Projetar a estrutura e organização das informações em um sistema ou site para garantir que os usuários possam encontrar
+        facilmente o que estão procurando.
+
+    4. **Wireframes e Protótipos:**
+        Criar esboços ou wireframes que representam a estrutura e o layout de uma interface. Em seguida,
+        desenvolver protótipos interativos para testar conceitos e fluxos de usuário.
+
+    5. **Design de Interface:**
+        Criar a interface visual, incluindo elementos como cores, tipografia, ícones, botões e layout,
+        com foco na usabilidade e acessibilidade.
+
+    6. **Testes de Usabilidade:**
+        Realizar testes de usabilidade com usuários reais para identificar problemas na interface e fazer melhorias iterativas.
+
+    7. **Acessibilidade:**
+        Garantir que o produto ou sistema seja acessível a todas as pessoas, incluindo aquelas com deficiências físicas ou cognitivas.
+
+    8. **Coleta de Feedback:**
+        Continuar coletando feedback dos usuários após o lançamento e usar esses insights para fazer melhorias contínuas.
+
+    9. **Colaboração com Equipe:**
+        Trabalhar em estreita colaboração com outros profissionais, como designers de interface, desenvolvedores,
+        gerentes de projeto e especialistas em marketing.
+
+    10. **Pesquisa de Tendências:**
+        Ficar atualizado sobre as tendências de design, tecnologia e usabilidade para garantir que o produto permaneça relevante e competitivo.
+
+    11. **Definição de Metas e Métricas:**
+        Estabelecer metas mensuráveis para a experiência do usuário e usar métricas para avaliar o sucesso e a eficácia das melhorias implementadas.
+
+O trabalho de um profissional de UX é multidisciplinar e centrado no usuário. Eles desempenham um papel crítico na criação de produtos
+e sistemas que se destacam no mercado e proporcionam uma experiência positiva aos usuários finais.

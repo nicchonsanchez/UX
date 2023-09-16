@@ -1,0 +1,32 @@
+---------------------------------------------------------------------------
+
+    Design Thinking: Definir
+
+---------------------------------------------------------------------------
+
+A fase de "Definir" no processo de Design Thinking é a segunda etapa fundamental após a fase de "Empatia". Nesta fase, o objetivo é sintetizar as informações e insights obtidos na fase de Empatia para definir claramente o problema ou desafio que precisa ser resolvido. É uma etapa crítica porque estabelece a base para o desenvolvimento de soluções eficazes e orienta a equipe de design na direção certa.
+
+Aqui estão os principais aspectos da fase de "Definir" no Design Thinking:
+
+    1. **Síntese de Informações:**
+        A equipe de design reúne todas as informações, dados, observações e insights coletados durante a fase de Empatia. Isso pode incluir histórias de usuários, entrevistas, personas, gravações de observações e qualquer outra forma de dados relevantes.
+
+    2. **Análise de Dados:**
+        Os dados coletados são analisados cuidadosamente para identificar padrões, tendências e questões comuns. Isso ajuda a equipe a extrair informações essenciais sobre os usuários e seus problemas.
+
+    3. **Definição do Problema:**
+        Com base na análise de dados, a equipe define o problema ou desafio de maneira clara e específica. Isso envolve criar uma declaração de problema que descreva o que precisa ser resolvido e por que é importante.
+
+    4. **Estabelecimento de Objetivos:**
+        Além de definir o problema, a equipe também pode estabelecer metas e objetivos para o projeto. Isso ajuda a direcionar o esforço de design na direção certa e fornece critérios claros de sucesso.
+
+    5. **Afirmação do Ponto de Vista:**
+        A equipe de design cria uma declaração de ponto de vista que encapsula a compreensão da equipe sobre o problema e os usuários. Essa declaração ajuda a equipe a manter o foco no usuário e no problema durante todo o processo de design.
+
+    6. **Definição de Limites e Restrições:**
+        Nesta fase, a equipe também pode identificar quaisquer limitações, restrições orçamentárias ou tecnológicas que possam afetar o projeto. Isso ajuda a estabelecer parâmetros realistas para o design.
+
+    7. **Brainstorming de Soluções Iniciais:**
+        Embora a geração de soluções seja uma etapa posterior no processo de Design Thinking (chamada de "Ideação"), nesta fase, a equipe pode começar a considerar possíveis abordagens para resolver o problema. No entanto, o foco principal é na definição clara do problema.
+
+A fase de "Definir" é essencial para evitar que a equipe de design fique perdida ou desperdice esforços em soluções que não são realmente relevantes para os usuários. Ela cria um alicerce sólido para as etapas subsequentes do Design Thinking, permitindo que a equipe concentre seus esforços na resolução do problema certo da maneira certa. É uma fase de clareza e alinhamento que ajuda a equipe a visualizar o que precisa ser alcançado.
